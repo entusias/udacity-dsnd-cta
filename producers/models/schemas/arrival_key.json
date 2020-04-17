@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "name": "arrival.key",
+  "namespace": "org.entusias",
+  "fields": [
+    {
+      "name": "timestamp",
+      "type": "long"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "weather.value",
+  "namespace": "org.entusias",
+  "fields": [
+    {"name":  "temperature", "type":  "int"},
+    {"name":  "status", "type":  "string"}
+  ]
+}
